@@ -75,15 +75,15 @@ export const Botside = styled.div`
 		flex-shrink: 0;
 
 		&.other {
-		background: var(--other-language);
+			background: var(--other-language);
 		}
 
 		&.javascript {
-		background: var(--javascript);
+			background: var(--javascript);
 		}
 
 		&.typescript {
-		background: var(--typescript);
+			background: var(--typescript);
 		}
 	}
 `;
